@@ -1,2 +1,2 @@
 # hello-world
-just a prove
+just a test
